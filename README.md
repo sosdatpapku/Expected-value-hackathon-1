@@ -9,12 +9,6 @@
 
 план мероприятий https://held-education-b1d.notion.site/a1a863f895b9433aaf18025419b5cf3f?p=cd7da9ca603142cf9b93334ec8cd4f21&pm=s
 
-
-
-https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
-
-https://github.com/tesseract-ocr/tesseract тот самый тессеракт  
-
  **Ссылки от Александра**  
  
  https://www.youtube.com/watch?v=6DjFscX4I_c  
@@ -23,3 +17,8 @@ https://github.com/tesseract-ocr/tesseract тот самый тессеракт
  **Ссылки от Алексея**  
  https://www.youtube.com/watch?v=UPjTYorn59g
  
+ **Другие ссылки**
+ 
+https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
+
+https://github.com/tesseract-ocr/tesseract тот самый тессеракт  
