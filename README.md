@@ -8,8 +8,8 @@
 план мероприятий https://held-education-b1d.notion.site/a1a863f895b9433aaf18025419b5cf3f?p=cd7da9ca603142cf9b93334ec8cd4f21&pm=s
 
  **Ссылки от Александра**  
-  https://www.youtube.com/watch?v=6DjFscX4I_c  28минут(cv2+tesseract)
- https://www.youtube.com/watch?v=28Pr8IaGZXI  
+  https://www.youtube.com/watch?v=6DjFscX4I_c  28минут(cv2+tesseract)  
+  https://www.youtube.com/watch?v=28Pr8IaGZXI  
  https://www.youtube.com/watch?v=owiqdzha_DE    
  **Ссылки от Алексея**  
  https://www.youtube.com/watch?v=UPjTYorn59g
