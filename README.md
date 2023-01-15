@@ -2,7 +2,12 @@
 Общий репозиторий команды "Математическое ожидание" 
 
 **Общая информация**    
-чек лист https://docs.google.com/spreadsheets/d/1aVTEXQQJoefqMAar4EJdJkRZOt9OdHDBG4AxBELad1A/edit  
+чек лист https://docs.google.com/spreadsheets/d/1aVTEXQQJoefqMAar4EJdJkRZOt9OdHDBG4AxBELad1A/edit    
+
+доска МИРО https://miro.com/app/board/uXjVP2DInDc=/    
+описание задачи https://docs.google.com/document/d/1A9-_QIFfehBWlAZVUW3OCAn81GnZVO09kbXYADfSuGw/edit  
+
+
 
 https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
 
