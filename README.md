@@ -1,7 +1,8 @@
 # Expected-value-hackathon-1
 Общий репозиторий команды "Математическое ожидание" 
 
-**Общая информация**  
+**Общая информация**    
+чек лист https://docs.google.com/spreadsheets/d/1aVTEXQQJoefqMAar4EJdJkRZOt9OdHDBG4AxBELad1A/edit  
 
 https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
 
