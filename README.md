@@ -2,5 +2,6 @@
 Общий репозиторий команды "Математическое ожидание" 
 
 **Общая информация**
-https://paperswithcode.com/dataset/sroie  #аналогичныцй хакатон
+https://paperswithcode.com/dataset/sroie  #аналогичныцй хакатон  
+
 https://github.com/tesseract-ocr/tesseract тот самый тессеракт
