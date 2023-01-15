@@ -10,7 +10,9 @@
  **Ссылки от Александра**  
   https://www.youtube.com/watch?v=6DjFscX4I_c  28минут(cv2+tesseract)  
   https://www.youtube.com/watch?v=28Pr8IaGZXI  
- https://www.youtube.com/watch?v=owiqdzha_DE    
+ https://www.youtube.com/watch?v=owiqdzha_DE     
+ https://www.youtube.com/watch?v=H_nXZSM4WiU("может быть полезно при решении подзадачи №2")  
+ 
  **Ссылки от Алексея**  
  https://www.youtube.com/watch?v=UPjTYorn59g
  
