@@ -5,8 +5,10 @@
 
 https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
 
-https://github.com/tesseract-ocr/tesseract тот самый тессеракт
- **Ссылки от Александра**
+https://github.com/tesseract-ocr/tesseract тот самый тессеракт  
+
+ **Ссылки от Александра**  
+ 
  https://www.youtube.com/watch?v=6DjFscX4I_c  
  https://www.youtube.com/watch?v=28Pr8IaGZXI  
  https://www.youtube.com/watch?v=owiqdzha_DE    
