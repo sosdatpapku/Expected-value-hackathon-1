@@ -11,11 +11,20 @@ from paddleocr import PaddleOCR, draw_ocr
 
 ocr = PaddleOCR(use_angle_cls=True, lang='en') #выбираем язык, указыва что определяем угол
 
-img_path = 'd/tr.jpg' #задаём адрес изображения/ий
+img_path = 'img/X00016469612.jpg' #задаём адрес изображения/ий
+
+file_1 = open('txt/write.txt', 'a') #открываем файл для добавления нового содержимого
 
 result = ocr.ocr(img_path,cls=True)
 for idx in range(len(result)):
     res = result[idx]
     for line in res:
         print(line)
-     
+        file_1.write(str(line)) #записываем числе массива х
+        file_1.write('\n')#следующая запись будет с новой строки
+file_1.close()
+
+#print(type(line))
+#line = str(line)
+#z = list(map(lambda x: x.upper(), line))
+#print(z)
