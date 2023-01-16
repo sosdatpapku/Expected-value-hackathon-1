@@ -1,0 +1,6 @@
+Simple steps for tesseract installation in windows.
+1 Download tesseract exe from https://github.com/UB-Mannheim/tesseract/wiki.
+2 Install this exe in C:\Program Files (x86)\Tesseract-OCR
+3 Open virtual machine command prompt in windows or anaconda prompt.
+4 Run pip install pytesseract
+5 To test if tesseract is installed type in python prompt:import pytesseractprint(pytesseract)
