@@ -26,4 +26,8 @@ https://github.com/tesseract-ocr/tesseract тот самый тессеракт
 
 https://habr.com/ru/post/504680/  
 
-https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/kie/README.md извлечение ключевых слов через paddle
+https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/kie/README.md извлечение ключевых слов через paddle  
+
+**LayoutLM**  
+https://github.com/microsoft/unilm/blob/master/layoutlm/README.md  
+https://www.kaggle.com/code/urbikn/layoutlm-using-the-sroie-dataset
