@@ -21,3 +21,7 @@
  
 https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
 https://github.com/tesseract-ocr/tesseract тот самый тессеракт  
+
+**Spacy**  
+
+https://habr.com/ru/post/504680/
