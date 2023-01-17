@@ -10,22 +10,18 @@
  **Ссылки от Александра**  
   https://www.youtube.com/watch?v=6DjFscX4I_c  28минут(cv2+tesseract)  
   https://www.youtube.com/watch?v=28Pr8IaGZXI  19 минут tesseract  
-  
- https://www.youtube.com/watch?v=owiqdzha_DE     
+  https://www.youtube.com/watch?v=owiqdzha_DE     
  https://www.youtube.com/watch?v=H_nXZSM4WiU ("может быть полезно при решении подзадачи №2")  
  
  **Ссылки от Алексея**  
  https://www.youtube.com/watch?v=UPjTYorn59g
  
  **Другие ссылки**
- 
-https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
+ https://paperswithcode.com/dataset/sroie  #аналогичный хакатон  
 https://github.com/tesseract-ocr/tesseract тот самый тессеракт  
 
 **Spacy и аналоги**  
-
 https://habr.com/ru/post/504680/  
-
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/kie/README.md извлечение ключевых слов через paddle  
 
 **LayoutLM**  
