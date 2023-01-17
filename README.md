@@ -5,7 +5,8 @@
 чек лист https://docs.google.com/spreadsheets/d/1aVTEXQQJoefqMAar4EJdJkRZOt9OdHDBG4AxBELad1A/edit    
 доска МИРО https://miro.com/app/board/uXjVP2DInDc=/    
 описание задачи https://docs.google.com/document/d/1A9-_QIFfehBWlAZVUW3OCAn81GnZVO09kbXYADfSuGw/edit    
-план мероприятий https://held-education-b1d.notion.site/a1a863f895b9433aaf18025419b5cf3f?p=cd7da9ca603142cf9b93334ec8cd4f21&pm=s
+план мероприятий https://held-education-b1d.notion.site/a1a863f895b9433aaf18025419b5cf3f?p=cd7da9ca603142cf9b93334ec8cd4f21&pm=s  
+вопросы https://docs.google.com/document/d/13MD5q5Wt1R14RrPrqLSdcrgkYmUag-2p/edit
 
  **Ссылки от Александра**  
   https://www.youtube.com/watch?v=6DjFscX4I_c  28минут(cv2+tesseract)  
