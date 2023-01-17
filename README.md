@@ -21,7 +21,8 @@
 https://github.com/tesseract-ocr/tesseract тот самый тессеракт  
 
 **Spacy и аналоги**  
-https://habr.com/ru/post/504680/  
+https://habr.com/ru/post/504680/  о spacy  
+https://course.spacy.io/en/  #обучалка по spacy  
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/kie/README.md извлечение ключевых слов через paddle  
 
 **LayoutLM**  
