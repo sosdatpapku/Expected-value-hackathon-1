@@ -7,6 +7,7 @@
 описание задачи https://docs.google.com/document/d/1A9-_QIFfehBWlAZVUW3OCAn81GnZVO09kbXYADfSuGw/edit    
 план мероприятий https://held-education-b1d.notion.site/a1a863f895b9433aaf18025419b5cf3f?p=cd7da9ca603142cf9b93334ec8cd4f21&pm=s  
 вопросы https://docs.google.com/document/d/13MD5q5Wt1R14RrPrqLSdcrgkYmUag-2p/edit
+
 [Чек-поинт №1](https://github.com/sosdatpapku/Expected-value-hackathon-1/tree/main/checkpoint№1%20(Sergey%20code)) (для проверяющих)
 
  **Ссылки от Александра**  
