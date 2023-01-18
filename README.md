@@ -6,7 +6,7 @@
 [доска МИРО](https://miro.com/app/board/uXjVP2DInDc=/)   
 [описание задачи](https://docs.google.com/document/d/1A9-_QIFfehBWlAZVUW3OCAn81GnZVO09kbXYADfSuGw/edit)    
 [план мероприятий](https://held-education-b1d.notion.site/a1a863f895b9433aaf18025419b5cf3f?p=cd7da9ca603142cf9b93334ec8cd4f21&pm=s)
-[вопросы](https://docs.google.com/document/d/13MD5q5Wt1R14RrPrqLSdcrgkYmUag-2p/edit)
+[вопросы к первой консультации](https://docs.google.com/document/d/13MD5q5Wt1R14RrPrqLSdcrgkYmUag-2p/edit)
 
 [Чек-поинт №1](https://github.com/sosdatpapku/Expected-value-hackathon-1/tree/main/checkpoint№1%20(Sergey%20code)) (для проверяющих)
 
@@ -29,7 +29,7 @@ https://github.com/tesseract-ocr/tesseract тот самый тессеракт
 https://habr.com/ru/post/504680/  о spacy    несколько устаревше
 https://habr.com/ru/post/571950/    несколько устаревше
 https://newtechaudit.ru/nlp-spacy/   
-https://www.youtube.com/watch?v=yqruv_QQctI&list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo&index=2  #цикл видеон на английском о spaCy  c 12 видео начинается spacy+машинное обучение
+[цикл видео на английском о spaCy  c 12 видео начинается spacy+машинное обучение](https://www.youtube.com/watch?v=yqruv_QQctI&list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo&index=2  )
 https://www.youtube.com/watch?v=WVhA3YpIek4  
 https://course.spacy.io/en/  # такая -себе обучалка по spacy от авторов 
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/kie/README.md извлечение ключевых слов через paddle  
