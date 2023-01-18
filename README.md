@@ -10,6 +10,8 @@
 
 [Чек-поинт №1](https://github.com/sosdatpapku/Expected-value-hackathon-1/tree/main/checkpoint№1%20(Sergey%20code)) (для проверяющих)
 
+[Чек-поинт №2](https://github.com/sosdatpapku/Expected-value-hackathon-1/tree/main/checkpoint№2%20(Alexandr%20code)) (для проверяющих)
+
  **Ссылки от Александра**  
   https://www.youtube.com/watch?v=6DjFscX4I_c  28минут(cv2+tesseract)  
   https://www.youtube.com/watch?v=28Pr8IaGZXI  19 минут tesseract  
