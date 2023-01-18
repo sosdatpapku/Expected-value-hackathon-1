@@ -28,7 +28,7 @@ https://github.com/tesseract-ocr/tesseract тот самый тессеракт
 **Spacy и аналоги**  
 [Краткий обзор NLP библиотеки SpaСy(хабр2020)](https://habr.com/ru/post/504680/)  
 [NER для русского языка в Spacy 3: удобно и легко(хабр2021)](https://habr.com/ru/post/571950/)  
-https://newtechaudit.ru/nlp-spacy/   
+[Бондаренко Иван "SpaCy и DeepPavlov для решения NLU задач" 2018-08-02](https://newtechaudit.ru/nlp-spacy/)   
 [цикл видео на английском о spaCy  c 12 видео начинается spacy+машинное обучение](https://www.youtube.com/watch?v=yqruv_QQctI&list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo&index=2)  
 https://www.youtube.com/watch?v=WVhA3YpIek4  
 https://course.spacy.io/en/  # такая -себе обучалка по spacy от авторов 
