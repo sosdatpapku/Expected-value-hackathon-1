@@ -29,7 +29,7 @@ https://github.com/tesseract-ocr/tesseract тот самый тессеракт
 https://habr.com/ru/post/504680/  о spacy    несколько устаревше
 https://habr.com/ru/post/571950/    несколько устаревше
 https://newtechaudit.ru/nlp-spacy/   
-[цикл видео на английском о spaCy  c 12 видео начинается spacy+машинное обучение](https://www.youtube.com/watch?v=yqruv_QQctI&list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo&index=2  )
+[цикл видео на английском о spaCy  c 12 видео начинается spacy+машинное обучение](https://www.youtube.com/watch?v=yqruv_QQctI&list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo&index=2)  
 https://www.youtube.com/watch?v=WVhA3YpIek4  
 https://course.spacy.io/en/  # такая -себе обучалка по spacy от авторов 
 https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/kie/README.md извлечение ключевых слов через paddle  
