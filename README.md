@@ -26,7 +26,7 @@
 https://github.com/tesseract-ocr/tesseract тот самый тессеракт  
 
 **Spacy и аналоги**  
-https://habr.com/ru/post/504680/  о spacy    несколько устаревше
+[Статья на хабре(несколько устарела)](https://habr.com/ru/post/504680/)  
 https://habr.com/ru/post/571950/    несколько устаревше
 https://newtechaudit.ru/nlp-spacy/   
 [цикл видео на английском о spaCy  c 12 видео начинается spacy+машинное обучение](https://www.youtube.com/watch?v=yqruv_QQctI&list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo&index=2)  
